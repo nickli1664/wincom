@@ -1,0 +1,1 @@
+{"comport1":"","openscreen1":"dasasdasd","closescreen1":"123","comport2":"","openscreen2":"nlbjfabffb","closescreen2":"456","comport3":"","openscreen3":"zxzvadaf","closescreen3":"789"}
